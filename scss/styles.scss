@@ -1,0 +1,39 @@
+$primary: #895129;
+$font-family-sans-serif: 'Roboto', sans-serif;
+
+body {
+    font-family: $font-family-sans-serif;
+}
+
+.hero {
+    padding: 100px 0;
+    background-color: #ffffff;
+}
+
+.btn-custom {
+    background-color: $primary;
+    border: none;
+
+    &:hover {
+        background-color: $primary;
+    }
+}
+
+.btn-custom:focus {
+    outline: 2px solid #895129;
+    outline-offset: 2px;
+}
+
+@media (max-width: 768px) {
+    .hero {
+        text-align: center;
+    }
+
+    .hero img {
+        margin-top: 20px;
+    }
+}
+
+// *{
+//     border: 1px solid red;
+// }
