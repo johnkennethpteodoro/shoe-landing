@@ -1,4 +1,6 @@
-# Shoe Landing Page
+# Shoe Landing Page 
+
+**[Live Demo](https://vercel.com/johnkennethpteodoros-projects/shoe-landing)**
 
 A modern and responsive landing page for a shoe brand, built using **Bootstrap 5**, **SASS**, and **JavaScript**. This project demonstrates clean design, accessibility, and responsiveness.
 
